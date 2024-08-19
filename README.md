@@ -42,7 +42,7 @@ To run this project locally, follow these steps:
 ### Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/student-profile-landing-page.git
+[git clone https://github.com/yourusername/student-profile-landing-page.git](https://github.com/SREERAM9652/TECHOCTANET_TASK1.git)
 
 ##Navigate to the project directory:
 cd student-profile-landing-page
